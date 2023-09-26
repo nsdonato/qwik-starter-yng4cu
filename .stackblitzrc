@@ -1,0 +1,6 @@
+{
+  "startCommand": "npm run dev",
+  "env": {
+    "DB_PRIVATE_KEY": "1234"
+  }
+}
